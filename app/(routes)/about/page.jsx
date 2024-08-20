@@ -85,7 +85,7 @@ function About() {
         <div className="max-w-5xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
           {/* Copyright Text */}
           <p className="mb-4 md:mb-0">
-            &copy; {new Date().getFullYear()} Your Company Name. All Rights Reserved.
+            &copy; {new Date().getFullYear()} Arabinda Malik . All Rights Reserved.
           </p>
 
           {/* Social Media Links */}
